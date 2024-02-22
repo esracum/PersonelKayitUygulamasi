@@ -1,0 +1,11 @@
+App.config
+bin
+obj
+Properties/
+.vs/
+App.config
+PersonelVeriTabaniDataSet.xsc
+PersonelVeriTabaniDataSet.xsd
+PersonelVeriTabaniDataSet.xss
+Personel_Kayit.sln
+Personel_Kayit.csproj
